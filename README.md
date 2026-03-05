@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Color Pick Master Icon](https://github.com/muscccm/Color-Pick-Master/blob/main/PixPin_2025-06-27_02-47-07.png?raw=true)
+<img width="300" height="300" alt="LOGO_300" src="https://github.com/user-attachments/assets/a4bd1ffa-0767-4a60-8a5e-b0383b8ada93" />
 
 **一个强大且专业的配色工具**
 
@@ -77,9 +77,167 @@
 <img width="1879" height="1279" alt="PixPin_2026-03-05_15-35-47" src="https://github.com/user-attachments/assets/44ca5b3b-829c-48ae-8c0a-43d9b3774d1c" />
 <img width="1872" height="1282" alt="PixPin_2026-03-05_15-35-17" src="https://github.com/user-attachments/assets/cb83b480-89aa-405e-9cea-9f5027132399" />
 
-
-
-
-
-
 </div> 
+
+### English Version
+
+# Color Pick Master 🎨
+
+<div align="center">
+  
+<img width="300" height="300" alt="LOGO_300" src="https://github.com/user-attachments/assets/1441894c-3b39-4b7d-8b31-4b1680b94365" />
+  
+  **A Powerful & Professional Color Matching Tool**
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+</div>
+
+
+## 📖 Introduction
+If you’re a designer, photographer, colorist, artist, or anyone working on PPTs or color-related tasks, you’ve likely struggled with choosing colors for your work. Our tool lets you **quickly extract color schemes from excellent designs**, adjust colors efficiently, and build your own color system with professional tools. Whether you’re a beginner or pro, you’ll master color with ease. It also doubles as a learning aid for color theory!
+
+
+## ✨ Key Features
+
+### Image Color Extraction
+- Extract color schemes from great work images via drag-and-drop, click, copy-paste, or batch upload.
+- Display extracted schemes as **intuitive color bars** for easy review.
+- Copy color values with a single click—no tedious text selection.
+- Merge color bars with images for export, or save color bars as standalone images.
+
+
+### Photo Color Adjustment
+- Unlike detailed editors, our tool helps you **quickly set an image’s tone** or apply others’ color schemes to your images for preview—perfect for photographers, colorists, and editors.
+- Real-time comparison between original and edited images.
+- Support **color mapping**: Extract saved color schemes to use on your images.
+- Merge color bars with edited images for export.
+- Adjust color blending intensity.
+
+
+### Color Scheme Templates
+- 15 **realistic HTML templates** (not static images) covering diverse scenarios (e.g., apps, websites).
+- Free color adjustment + real-time preview—see how your scheme works in different contexts instantly.
+- Extract colors from saved palettes on the right panel.
+- 3 complexity levels (Few/Medium/Many) for minimalist or complex color logic.
+- One-click reset to restore default template colors.
+
+
+### Powerful & Professional Color Adjustment System
+- Use the **HSB color picker** (common in pro software) for fast color tweaks anywhere.
+- **Large-area color preview**—way more intuitive than tiny boxes in other tools.
+- Real-time adjustment + one-click color value copy (no text selection needed!).
+- Full-screen eyedropper tool to pick colors from *any* screen location.
+
+
+### Powerful & Professional Color Wheel System
+- Professional color wheel for **scientific color matching** (modes: Complementary, Analogous, Monochromatic, Triadic, Split-Complementary, Square, Tetradic, Tonal, Custom).
+- Generate rule-compliant nodes for each mode.
+- Set any color as the base for your scheme.
+- Add up to 12 color nodes per wheel.
+- One-click save to store schemes in candidate groups; double-click to restore them to the wheel.
+
+
+### Elegant Themes
+- Carefully designed **dark/light themes** for comfortable use in any environment.
+
+
+### Multi-Language Support
+- Supports **Chinese, English, and Japanese**—switch languages from the bottom-left corner.
+
+
+- **Non-Destructive Editing**: All operations won’t modify your original images.
+
+
+## 🖼️ Software Interface
+<img width="1875" height="1279" alt="PixPin_2026-03-05_15-38-55" src="https://github.com/user-attachments/assets/9d6a6cae-1cac-476e-8d91-ae769740e915" />
+<img width="1877" height="1258" alt="PixPin_2026-03-05_15-38-24" src="https://github.com/user-attachments/assets/7f1646df-6b46-4347-97b3-5503f1d12b73" />
+<img width="1879" height="1279" alt="PixPin_2026-03-05_15-35-47" src="https://github.com/user-attachments/assets/44ca5b3b-829c-48ae-8c0a-43d9b3774d1c" />
+<img width="1872" height="1282" alt="PixPin_2026-03-05_15-35-17" src="https://github.com/user-attachments/assets/cb83b480-89aa-405e-9cea-9f5027132399" />
+
+
+
+---
+
+
+### Japanese Version
+
+# Color Pick Master 🎨
+
+<div align="center">
+  
+<img width="300" height="300" alt="LOGO_300" src="https://github.com/user-attachments/assets/0dd11ce5-f435-4b1b-8345-b896f4c8933d" />
+
+  **強力かつ専門的な配色ツール**
+  
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
+</div>
+
+
+## 📖 紹介
+デザイナー、写真家、カラリスト、美術家、またはPPT作成や色使いに関する作業を行う方であれば、作品の色選びに苦労した経験があるかもしれません。このツールでは、**優れたデザインから配色を迅速に抽出**し、効率的にカラー調整を行い、専門的なカラーツールで自分の配色システムを構築できます。初心者でもプロでも、色のコントロールが自由自在になります。色彩理論の学習ツールとしても活用できます！
+
+
+## ✨ 主な機能
+
+### 画像からの色抽出
+- 優れた作品画像から配色を迅速に抽出。ドラッグ＆ドロップ、クリック、コピー＆ペースト、**一括アップロード**に対応。
+- 抽出した配色を**色バー**として直感的に表示し、観察しやすくする。
+- 簡単なクリックで色値を選択・コピー—面倒なテキスト選択は不要。
+- 色バーを画像に統合してエクスポートするか、色バー単体を画像として保存できる。
+
+
+### 写真のカラーグレーディング
+- 細部編集ソフトと異なり、画像の**色調を迅速に決定**したり、他人の優れた配色を自分の画像に即座に適用してプレビュー—写真家、カラリスト、編集者に最適。
+- 元画像と加工後の画像を**リアルタイムで比較**可能。
+- **カラーマッピング**対応：保存した配色から迅速に抽出し、自分の画像に適用。
+- 色バーと加工画像を統合してエクスポート。
+- 配色の混合強度を調整可能。
+
+
+### 配色テンプレート
+- 15種類の**HTML実コンポーネント製テンプレート**（画像ではない！）—アプリ、Webサイトなど多様なシナリオに対応。
+- 自由な色調整 + リアルタイムプレビュー—配色が異なるシーンでどう機能するかを即座に確認。
+- 右パネルの保存済み配色から迅速に色を抽出。
+- 3段階の複雑度（少/中/多）—シンプルな配色から複雑な配色まで対応。
+- ワンクリックでテンプレートのデフォルト配色にリセット。
+
+
+### 強力かつ専門的なカラーグレーディングシステム
+- 専門ソフトで一般的な**HSBカラーピッカー**を採用—どこでも迅速に色調整。
+- **大面積の色プレビュー**—他のソフトの小さなプレビュー枠よりも直感的。
+- リアルタイム調整 + ワンクリックで色値コピー（テキスト選択不要！）。
+- 全画面スポイトツール—画面上の**任意の位置**の色を迅速に取得。
+
+
+### 強力かつ専門的なカラーホイールシステム
+- 専門的なカラーホイールで**科学的な配色**（モード：補色、類似色、単色、三原色、分割補色、正方形、複合、濃度、カスタム）。
+- 各モードに応じて、規則に合ったノードを生成。
+- 任意の色を**基準色**に設定し、配色を生成。
+- 1つのカラーホイールに最大12個の色ノードを追加可能。
+- ワンクリックで配色を候補グループに保存；ダブルクリックでカラーホイールに復元。
+
+
+### エレガントなテーマ
+- 精心設計された**ダークテーマ**と**ライトテーマ**—どの環境でも快適に使用可能。
+
+
+### 多言語対応
+- 中国語、英語、日本語に対応—アプリ左下から言語を切り替え可能。
+
+
+- **非破壊的処理**：すべての操作は元の画像ファイルを変更しません。
+
+
+## 🖼️ ソフトウェアインターフェース
+<img width="1875" height="1279" alt="PixPin_2026-03-05_15-38-55" src="https://github.com/user-attachments/assets/9d6a6cae-1cac-476e-8d91-ae769740e915" />
+<img width="1877" height="1258" alt="PixPin_2026-03-05_15-38-24" src="https://github.com/user-attachments/assets/7f1646df-6b46-4347-97b3-5503f1d12b73" />
+<img width="1879" height="1279" alt="PixPin_2026-03-05_15-35-47" src="https://github.com/user-attachments/assets/44ca5b3b-829c-48ae-8c0a-43d9b3774d1c" />
+<img width="1872" height="1282" alt="PixPin_2026-03-05_15-35-17" src="https://github.com/user-attachments/assets/cb83b480-89aa-405e-9cea-9f5027132399" />
+
+
+
+---
+
+**注**：翻訳は「原意を保持しつつ、ターゲット言語のユーザーに親切な表現」を優先しています。技術用語（HSB、カラーホイール等）は国際的に通用する表記を使用し、可読性を最大化しています。
