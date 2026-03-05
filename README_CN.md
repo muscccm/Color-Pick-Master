@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![PyQt6](https://img.shields.io/badge/PyQt6-6.0+-green.svg)](https://www.riverbankcomputing.com/software/pyqt/)
+[![PyQt6](https://img.shields.io/badge/PyQt6-6.0+-green.svg)](https://github.com/muscccm/Color-Pick-Master/edit/main/README_CN.md)
 
 </div>
 
