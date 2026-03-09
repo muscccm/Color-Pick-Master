@@ -7,6 +7,9 @@
 **A Powerful & Professional Color Matching Tool**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<a href="https://get.microsoft.com/installer/download/9npgqgvksqt6?referrer=appbadge" target="_self" >
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
 
 [🇺🇸 English](./README.md) · [🇨🇳 中文](./README_ZH.md) · [🇯🇵 日本語](./README_JA.md)
 
@@ -74,3 +77,4 @@ If you're a designer, photographer, colorist, artist, or anyone working on PPTs 
 <img width="1877" height="1258" alt="PixPin_2026-03-05_15-38-24" src="https://github.com/user-attachments/assets/7f1646df-6b46-4347-97b3-5503f1d12b73" />
 <img width="1879" height="1279" alt="PixPin_2026-03-05_15-35-47" src="https://github.com/user-attachments/assets/44ca5b3b-829c-48ae-8c0a-43d9b3774d1c" />
 <img width="1872" height="1282" alt="PixPin_2026-03-05_15-35-17" src="https://github.com/user-attachments/assets/cb83b480-89aa-405e-9cea-9f5027132399" />
+
